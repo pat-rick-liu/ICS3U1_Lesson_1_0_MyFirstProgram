@@ -1,6 +1,7 @@
 # How to run your code
 
-## 1. Clone The Repository
+## 1. Fork the Repository
+
 
 ## 2. Edit your Code
 
