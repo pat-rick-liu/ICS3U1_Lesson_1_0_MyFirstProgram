@@ -1,6 +1,6 @@
-# Lesson Title
+# 1.0 My First Program
 
-Lesson notes go here
+Go to the Running
 
 
 
