@@ -1,7 +1,7 @@
 # How to run your code
 
 ## 1. Fork the Repository
-
+![](https://github.com/SACHSTech/CodeHS_LessonTemplate/media/SACHSTech_ICS3U1_Lesson_1_0_MyFirstProgram.gif)
 
 ## 2. Edit your Code
 
