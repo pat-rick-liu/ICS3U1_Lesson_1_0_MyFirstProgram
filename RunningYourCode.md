@@ -4,10 +4,15 @@
 ![forking](https://github.com/SACHSTech/CodeHS_LessonTemplate/assets/10250018/d03ad6e1-db81-4bed-bec0-69dc68c6e0e8)
 
 ## 2. Clone your fork to VS Code
-* Copy the url of your fork
+
+### Copy the url of your fork
+![cloning1](https://github.com/SACHSTech/CodeHS_LessonTemplate/assets/10250018/89142773-789c-4007-8e8e-3ada92524ac2)
+
 * Open an new window in VS Code
 * Click on *Clone Git Repository*
 * Paste your url into the prompt and hit RETURN
+
+
 
 
 ## 3. Run Your Code
